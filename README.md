@@ -28,6 +28,18 @@ we have a fixed reference point for reliable, repeatable test outcomes.
 
 ## How to use this repo during development
 
+This workflow assumes that you will be running puppetserver from source on your
+local machine.  Further, it assumes that after cloning this control repo,
+on the branch you're working on, you've created an environment-specific
+`manifests/site.pp` file, which contains a `node 'default'` block that brings in
+the role that you are interested in.  With this pattern, any node that is using
+the specified environment is going to get that role as its classification, but
+presumably the only nodes that will be using the environment are nodes where this
+behavior is desirable.  We may want to look into a more sophisticated way to handle
+classification in the future.
+
+Steps:
+
 * Create a local `r10k.yaml` config file that looks something like this:
 
 ```
@@ -40,8 +52,8 @@ we have a fixed reference point for reliable, repeatable test outcomes.
 ```
 
 * Install r10k as a gem
-* Run something like `r10k deploy environment 20160614_memtest -v debug -c /my/scratch/dir/perf-control-repo/r10k.yamlhome/cprice/work/puppet-server/scratch/perf-control-repo/r10k.yaml`.  (You can leave out the environment name if you want to deploy all environments.)
+* Make any desired changes to your local copy of the control repo, commit them, and push them up to the hubz.
+* To deploy the r10k environment to your local Puppet Server, run something like `r10k deploy environment 20160614_memtest -p -v debug -c /my/scratch/dir/perf-control-repo/r10k.yamlhome/cprice/work/puppet-server/scratch/perf-control-repo/r10k.yaml`.  (You can leave out the environment name if you want to deploy all environments.)
 * Spin up a vmpooler VM to use as a test agent; install puppet-agent, configure the `server` to point to your host, and then run `puppet agent -t --environment 20160614_memtest`
-* Edit the `manifests/site.pp` file for the appropriate environment on your puppetserver to map a role to your vmpooler node
-* Re-run the agent, lather, rinse, repeat
+* Lather, rinse, repeat
 
