@@ -1,5 +1,7 @@
 # A Puppetfile for a control repo that can be used for Puppet Server / PE perf testing
 
+mod 'stahnma/epel', '1.2.2'
+
 # Modules required to get a tomcat server up and running
 mod 'puppetlabs/tomcat', '1.5.0'
 mod 'puppetlabs/stdlib', '4.12.0'
@@ -31,7 +33,6 @@ mod 'puppetlabs/accounts', '1.0.0'
 mod 'jlambert121/yum', '0.2.1'
 mod 'puppetlabs/ntp', '4.2.0'
 mod 'puppetlabs/firewall', '1.8.1'
-mod 'puppetlabs/motd', '1.4.0'
 mod 'saz/rsyslog', '3.5.1'
 
 ## Advanced linux host management

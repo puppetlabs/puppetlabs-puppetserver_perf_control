@@ -1,0 +1,18 @@
+__________                            __    .____          ___.
+\______   \__ ________ ______   _____/  |_  |    |   _____ \_ |__   ______
+ |     ___/  |  \____ \\____ \_/ __ \   __\ |    |   \__  \ | __ \ /  ___/
+ |    |   |  |  /  |_> >  |_> >  ___/|  |   |    |___ / __ \| \_\ \\___ \
+ |____|   |____/|   __/|   __/ \___  >__|   |_______ (____  /___  /____  >
+                |__|   |__|        \/               \/    \/    \/     \/
+
+(<%= @fqdn %>) : (<%= @primary_ip %>) : (<%= @whereami %>)
+<%= @operatingsystem %> <%= @operatingsystemrelease %><% if has_variable?('lsbdistcodename') then %>/<%= @lsbdistcodename %><% end %> <%= @architecture %>
+<% if has_variable?('processor0') then -%>Processor: <%= @processor0.gsub( / +/ , ' ' ) -%> <% end -%> <% if has_variable?('memorysize') then -%> Memory: <%= @memorysize -%> <% end %>
+
+       Puppet: <%= @puppetversion %> in <%= @environment %>
+       Facter: <%= @facterversion %>
+
+         Ruby: <%= @rubyversion %>
+       Python: <%= @system_python_version %>
+
+We have the following modules:
