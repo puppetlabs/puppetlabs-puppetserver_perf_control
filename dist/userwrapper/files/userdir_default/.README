@@ -1,0 +1,2 @@
+If you would like to customize your $HOME across all systems managed by
+Puppet, add files to site/profile/files/userdirs/$USER
