@@ -53,7 +53,8 @@ Steps:
 
 * Install r10k as a gem
 * Make any desired changes to your local copy of the control repo, commit them, and push them up to the hubz.
-* To deploy the r10k environment to your local Puppet Server, run something like `r10k deploy environment 20160614_memtest -p -v debug -c /my/scratch/dir/perf-control-repo/r10k.yamlhome/cprice/work/puppet-server/scratch/perf-control-repo/r10k.yaml`.  (You can leave out the environment name if you want to deploy all environments.)
+* To deploy the r10k environment to your local Puppet Server, run something like `r10k deploy environment 20160614_memtest -p -v debug -c /my/scratch/dir/perf-control-repo/r10k.yaml`.  (You can leave out the environment name if you want to deploy all environments.)
+* Copy the hiera.yaml file from `./root_files` into your confdir (presumably `target/master-conf-dir`), and set the `datadir` to a value appropriate for your setup (e.g. `/path/to/puppet/server/sourcecode/target/master-code-dir/environments/%{environment}/hieradata`.
 * Spin up a vmpooler VM to use as a test agent; install puppet-agent, configure the `server` to point to your host, and then run `puppet agent -t --environment 20160614_memtest`
 * Lather, rinse, repeat
 
