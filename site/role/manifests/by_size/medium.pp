@@ -5,4 +5,6 @@ class role::by_size::medium {
   include ::profile::sysop::packages
 
   include ::profile::motd
+
+  include ::profile::hiera_check
 }
