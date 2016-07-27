@@ -1,0 +1,33 @@
+---
+groups::group13::test::big_map:
+  data1:
+    ips1:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+      - '127.0.0.8'
+      - '127.0.0.9'
+      - '127.0.0.10'
+    ips2:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+    ip3_1: '127.0.0.1'
+    ip4_1: '127.0.0.1'
+  data2:
+    servers1:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+    uuid2_1: '6a1312e8-df16-4929-bc33-fb3a752026eb'
+
+groups::group13::test::uuid1: '25fa6e04-c7fc-44ae-897e-5381aba393bd'
+groups::group13::test::uuid2: '87a7a037-53be-4dd0-bac1-aa9aa95f60a5'
+groups::group13::test::uuid3: 'c623ed99-0622-4e41-86c5-77a2531820bf'
+groups::group13::test::uuid4: 'b0ac1909-40ea-43a0-84ab-7a728bc0c79e'
+groups::group13::test::uuid5: '1e4ab12a-6da9-45e7-b756-e8488c810a63'
+groups::group13::test::uuid6: 'f652d0a6-7d61-495a-a290-f39629b98e17'

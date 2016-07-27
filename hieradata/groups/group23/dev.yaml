@@ -1,0 +1,19 @@
+---
+groups::group23::dev::big_map:
+  data1:
+    ip1_1: '127.0.0.1'
+    ip2_1: '127.0.0.1'
+    uuid3_1: '3c6a8da7-a259-4480-b43b-8876de2c4b19'
+
+groups::group23::dev::uuid1: '66a31e27-8fb1-48f1-bbc5-c5516a80c490'
+groups::group23::dev::uuid2: '0e9a065f-59e5-4022-9acc-44a7c35f9e8e'
+groups::group23::dev::uuid3: 'c51c5a02-0c98-462b-aae8-2a2e57d1751c'
+groups::group23::dev::uuid4: 'd1f511c7-af1c-405b-a0af-3adba6b08ecb'
+groups::group23::dev::uuid5: '12e2748f-0ca9-4b07-89c1-3d8888ee09f5'
+groups::group23::dev::uuid6: '38084aa2-36c1-4595-bf1f-2f9ac4c81fc7'
+groups::group23::dev::uuid7: 'ead77da0-5b03-4ca8-9bb0-ed1fbbf6e641'
+groups::group23::dev::uuid8: '979cc008-2209-4b55-8aff-fe703111bb80'
+groups::group23::dev::uuid9: '1d9fbcad-6e84-4961-a6fa-f1425829394e'
+groups::group23::dev::uuid10: '32b260bf-cd5b-4450-98bb-8876c70c83c2'
+groups::group23::dev::uuid11: 'f8784536-ca4e-4c8c-b7a8-98c3cb41ccdb'
+groups::group23::dev::uuid12: '70fb995c-ba28-4b3e-a03f-43408ca107f8'

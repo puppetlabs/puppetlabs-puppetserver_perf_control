@@ -1,0 +1,51 @@
+---
+groups::group44::stage::big_map:
+  data1:
+    servers1:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+    ips2:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+    uuid3_1: '752adeb2-83a8-4cce-9f10-fd5703c79f01'
+    ip4_1: '127.0.0.1'
+    uuid5_1: '8f3d4b8d-449d-416b-97ce-06afdd1e3a35'
+  data2:
+    ips1:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+      - '127.0.0.8'
+      - '127.0.0.9'
+    uuid2_1: 'e7682760-f276-44eb-aa2b-325553c40f73'
+    servers3:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+      - 'foo10.mycompany.org'
+      - 'foo11.mycompany.org'
+    ip4_1: '127.0.0.1'
+
+groups::group44::stage::uuid1: 'c648d481-04dd-4b85-a213-1bd3384ba788'
+groups::group44::stage::uuid2: '88f80a77-4a96-43ad-bad3-abbec6263aee'
+groups::group44::stage::uuid3: 'e253a0c6-6bbe-4dbf-a231-89daad6d079c'
+groups::group44::stage::uuid4: '3638d1e9-e63e-4dfb-ad83-bedbb9898faf'
+groups::group44::stage::uuid5: '36767382-2d95-4267-9dae-f4e6a412356c'
+groups::group44::stage::uuid6: '0e633fcb-c573-4dde-9259-2a0904ef1dee'
+groups::group44::stage::uuid7: 'f5ab7006-1f39-43a8-b4ec-4de64dfafb5c'
+groups::group44::stage::uuid8: '133f9ef1-980a-4be6-8de3-ca77ee29638f'
+groups::group44::stage::uuid9: 'c00154dd-b5bd-4bff-962e-2931baeb082f'

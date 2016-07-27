@@ -1,0 +1,32 @@
+---
+groups::group5::test::big_map:
+  data1:
+    uuid1_1: 'f1a1e632-b29b-420e-93f9-a96e9cd9f4cf'
+    uuid2_1: 'e536bcfe-2711-4ce8-bd61-dc1ea273db87'
+    uuid3_1: 'ca960305-c344-41db-ba08-fc41fdf2594a'
+    uuid4_1: '33300143-72a2-48b1-bdd8-6de1844d3bf2'
+    ip5_1: '127.0.0.1'
+  data2:
+    uuid1_1: '4e7d4610-f03c-4c17-ba7b-130a2cc986c5'
+    uuid2_1: '0e54f8c4-7db1-46e1-b05c-09276e3fe6bf'
+    uuid3_1: '958acada-f77e-4dd9-8c87-c3b58eca4d9e'
+  data3:
+    uuid1_1: '5b68e157-5f9f-4e00-8de2-642d8d224b48'
+    ips2:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+    ips3:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+
+groups::group5::test::uuid1: 'dabe37bf-c278-4f48-a096-8d99b91d51eb'
+groups::group5::test::uuid2: '23162eca-90ad-49ad-beaa-8a51af3ab7d7'
+groups::group5::test::uuid3: '16cbd61c-1e19-4c67-8d00-b60a536aee20'
+groups::group5::test::uuid4: '917e5141-1ace-4072-ae7a-253ffb956bcc'
+groups::group5::test::uuid5: 'b465c45f-8c85-4cea-ba90-a2a724c4e795'
+groups::group5::test::uuid6: '6b04d389-e2e2-441b-a885-af47bb82ca56'

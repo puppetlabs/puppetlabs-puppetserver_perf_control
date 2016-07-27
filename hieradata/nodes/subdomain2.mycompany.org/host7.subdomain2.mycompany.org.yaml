@@ -1,0 +1,73 @@
+---
+nodes::subdomain2_mycompany_org::host7_subdomain2_mycompany_org::uuid1: '1ef1f90a-51d7-4f65-863b-fbfebd7d870d'
+nodes::subdomain2_mycompany_org::host7_subdomain2_mycompany_org::uuid2: '0ba30204-5ae6-403e-a261-e57bdab2ec16'
+nodes::subdomain2_mycompany_org::host7_subdomain2_mycompany_org::uuid3: '031fe660-80dc-43f2-a9c0-1307ac9953dc'
+nodes::subdomain2_mycompany_org::host7_subdomain2_mycompany_org::uuid4: '9174b9ca-ac89-430b-b6e3-78771387d8e9'
+
+nodes::subdomain2_mycompany_org::host7_subdomain2_mycompany_org::uuid:
+  data1:
+    uuid1_1: 'fee9ad2f-fbca-4b27-a62c-8b3ca4fcfd1d'
+    ip2_1: '127.0.0.1'
+    uuid3_1: '165e82cc-ae67-4573-b0c3-5548e57759b9'
+  data2:
+    servers1:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+    uuid2_1: 'bffbafe1-37f4-4b30-8fdc-25de13b38194'
+    uuid3_1: 'f7e62048-a8a1-42df-b6b9-0bf0d72dbd10'
+    uuid4_1: '95ad7d86-4b34-4df5-add3-ca3b9c852d1f'
+  data3:
+    ip1_1: '127.0.0.1'
+    ip2_1: '127.0.0.1'
+    ip3_1: '127.0.0.1'
+  data4:
+    uuid1_1: 'a3b9c17c-1c8a-4495-b238-bf89cd44eac2'
+    ip2_1: '127.0.0.1'
+    ips3:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+      - '127.0.0.8'
+      - '127.0.0.9'
+      - '127.0.0.10'
+      - '127.0.0.11'
+  data5:
+    ip1_1: '127.0.0.1'
+    ip2_1: '127.0.0.1'
+    servers3:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+    servers4:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+    uuid5_1: '205dd966-68e9-4507-a5a4-5837d7da063b'
+  data6:
+    uuid1_1: '8389eb04-14f2-47b0-b93c-d6cee42da3c7'
+    ips2:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+    servers3:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'

@@ -1,0 +1,14 @@
+---
+nodes::subdomain1_mycompany_org::host60_subdomain1_mycompany_org::uuid1: 'ee694981-323b-48b3-9b12-aaf56dfd187e'
+nodes::subdomain1_mycompany_org::host60_subdomain1_mycompany_org::uuid2: '78e44d49-35dd-407b-8aa7-79e79c24b3b7'
+nodes::subdomain1_mycompany_org::host60_subdomain1_mycompany_org::uuid3: '2b1cc3ba-9ef5-4c02-90e6-f4ccc46a4ac7'
+nodes::subdomain1_mycompany_org::host60_subdomain1_mycompany_org::uuid4: '2320f702-f7c6-49f8-b070-f0e12a89ba6a'
+nodes::subdomain1_mycompany_org::host60_subdomain1_mycompany_org::uuid5: '5f50cca7-e3cc-4e5f-a26c-2ac400672430'
+nodes::subdomain1_mycompany_org::host60_subdomain1_mycompany_org::uuid6: '6acc5b4d-f2e3-4f43-af5f-f988bc460c15'
+nodes::subdomain1_mycompany_org::host60_subdomain1_mycompany_org::uuid7: '17eff5e1-6ddb-4304-96a6-8dbc7f3221c3'
+nodes::subdomain1_mycompany_org::host60_subdomain1_mycompany_org::uuid8: '4dd72388-b451-4951-b1ea-f874e67a39ed'
+nodes::subdomain1_mycompany_org::host60_subdomain1_mycompany_org::uuid9: '9b0f42f2-03a3-402a-a01b-9a9bfdfc334d'
+nodes::subdomain1_mycompany_org::host60_subdomain1_mycompany_org::uuid10: '68d4ce5b-cbf5-44e4-b79c-c4bc9f388390'
+nodes::subdomain1_mycompany_org::host60_subdomain1_mycompany_org::uuid11: 'bce63498-60a4-4c2d-a2df-b847833aac17'
+nodes::subdomain1_mycompany_org::host60_subdomain1_mycompany_org::uuid12: 'e2ac50f8-e10d-47c9-97f4-2992521bc721'
+

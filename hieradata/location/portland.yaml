@@ -1,0 +1,230 @@
+---
+location::portland::hiera_check_field: "correct value"
+
+location::portland::timeservers:
+    - 'foo1.mycompany.org'
+    - 'foo2.mycompany.org'
+    - 'foo3.mycompany.org'
+    - 'foo4.mycompany.org'
+    - 'foo5.mycompany.org'
+
+location::portland::dhcp::timeservers:
+    - 'foo1.mycompany.org'
+    - 'foo2.mycompany.org'
+    - 'foo3.mycompany.org'
+    - 'foo4.mycompany.org'
+    - 'foo5.mycompany.org'
+
+location::portland::dhcp::servers:
+    - 'foo1.mycompany.org'
+    - 'foo2.mycompany.org'
+
+location::portland::dhcp::interfaces:
+    - 'foo1'
+
+location::portland::dhcp::key1: '46c436bf-7bf3-401f-8434-74b16b3b89bf'
+location::portland::dhcp::key2: '66ffaa3b-0394-42da-884f-6f16b20e098e'
+location::portland::dhcp::key3: '1716a9e7-126a-445f-abc8-06c1d22797ee'
+location::portland::dhcp::key4: '62db468a-7b71-440a-9865-6f5e903430b0'
+location::portland::dhcp::key5: '56ad16aa-9e15-4d3b-b4d3-b20f15cae5cc'
+
+location::portland::bigmap:
+  data1:
+    ip1_1: '127.0.0.1'
+    uuid2_1: 'b0eb4e81-c4df-46ef-aeb1-2f6833ef194c'
+    uuid3_1: 'ea9a697c-50fe-4644-827e-299412d00658'
+    ip4_1: '127.0.0.1'
+    uuid5_1: '3c81acfa-c2c9-427b-adfb-850c74e7aa44'
+  data2:
+    ip1_1: '127.0.0.1'
+    ip2_1: '127.0.0.1'
+  data3:
+    ip1_1: '127.0.0.1'
+    uuid2_1: '83855e2a-7db3-4e66-a7db-0e26a27930f9'
+  data4:
+    uuid1_1: '62a210b2-8954-494e-aa25-f67543827fe0'
+    ip2_1: '127.0.0.1'
+  data5:
+    ip1_1: '127.0.0.1'
+    ip2_1: '127.0.0.1'
+  data6:
+    ips1:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+    uuid2_1: '1eefdc99-7c01-414d-b387-be6efa86882b'
+  data7:
+    uuid1_1: '9a14e8fe-66e2-4d31-b56d-7e15051be888'
+    uuid2_1: 'e599d212-e502-41e5-b325-5af61c508d02'
+    uuid3_1: 'befbf04f-18d7-4a5e-ba35-5b725883ae56'
+    ips4:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+  data8:
+    servers1:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+    ip2_1: '127.0.0.1'
+  data9:
+    servers1:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+    servers2:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+    servers3:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+      - 'foo10.mycompany.org'
+    ips4:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+      - '127.0.0.8'
+      - '127.0.0.9'
+      - '127.0.0.10'
+  data10:
+    uuid1_1: '74eb6b1a-1c8a-44d8-baa3-a08316d4904a'
+    uuid2_1: '2c7e0fda-a0c3-47f2-9d5e-b9eb302d4674'
+    uuid3_1: '8551b874-b488-4717-8b78-4d7a1755652d'
+    ips4:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+  data11:
+    servers1:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+    uuid2_1: 'ae6067b0-d75f-4710-8ad2-c2efb5c7b780'
+    servers3:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+      - 'foo10.mycompany.org'
+  data12:
+    ip1_1: '127.0.0.1'
+    servers2:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+    uuid3_1: 'f64958f6-d725-4d97-8c20-c3db0c957916'
+  data13:
+    uuid1_1: '57857b55-fc4f-4d16-b062-13530f104632'
+    ips2:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+      - '127.0.0.8'
+      - '127.0.0.9'
+      - '127.0.0.10'
+      - '127.0.0.11'
+    ip3_1: '127.0.0.1'
+    servers4:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+    uuid5_1: 'cbeacfb7-774e-4d6d-b9b4-33fb696b2e79'
+  data14:
+    ips1:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+      - '127.0.0.8'
+      - '127.0.0.9'
+      - '127.0.0.10'
+      - '127.0.0.11'
+    ip2_1: '127.0.0.1'
+  data15:
+    uuid1_1: '5e330387-1a53-4ae7-be78-a022670e6dbc'
+    uuid2_1: '67bb9a8d-5f1f-42c4-a866-7c4cfce34a20'
+  data16:
+    uuid1_1: '213142c4-bbb1-455f-a622-3650634763db'
+    ip2_1: '127.0.0.1'
+  data17:
+    uuid1_1: 'cf1b95f7-3b2a-46ed-bb35-19bf8e75f09d'
+    servers2:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+      - 'foo10.mycompany.org'
+    uuid3_1: 'c64d38b3-20ea-4781-899c-5c3cb0f43201'
+  data18:
+    ip1_1: '127.0.0.1'
+    ips2:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+    servers3:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+    ip4_1: '127.0.0.1'
+    uuid5_1: '704d9f79-d1cb-40a1-b1eb-2264d6051f00'
+
+location::portland::network::key1: '97257342-e78b-4d24-be9f-191c33242ede'
+location::portland::network::key2: 'c4525d97-aa1e-43db-93b4-9f8c59ac6be1'
+location::portland::network::key3: 'fc46c10f-8577-4616-b283-77895cc15aac'
+location::portland::network::key4: '1ff98b88-10fd-4e61-bf02-b21ba495f385'
+location::portland::network::key5: '704f888c-0fe5-4d1d-9ac6-5ad34aabf34c'
+location::portland::network::key6: '97a5fef4-4bae-4635-b9b2-3951e3bf6d80'
+location::portland::network::key7: '0e400127-fe3b-4a4b-a0fc-ab7c95a7bd50'

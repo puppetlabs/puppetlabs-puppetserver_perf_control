@@ -1,0 +1,5 @@
+---
+location::portland::prod::hiera_check_field: "correct value"
+
+location::portland::prod::uuid1: 'b807d91b-ee07-4437-91ca-be44c30861fb'
+location::portland::prod::uuid2: '86eaea49-0c0c-48d5-a767-2526173c925c'

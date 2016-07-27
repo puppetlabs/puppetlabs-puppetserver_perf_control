@@ -1,0 +1,14 @@
+---
+groups::pgtomcat::prod::hiera_check_field: "correct value"
+
+groups::pgtomcat::prod::uuid1: '3b85c90c-668d-42ac-8ecb-16a9a92bf7cb'
+groups::pgtomcat::prod::uuid2: '4e4b6aca-9404-4abf-b3d2-cdcb13eac91d'
+groups::pgtomcat::prod::uuid3: '9cb4fa21-4e09-4a1e-b01c-2525bf142ef4'
+groups::pgtomcat::prod::uuid4: '1546da49-320c-418c-b7a8-b9e60dc84d7c'
+groups::pgtomcat::prod::uuid5: '5bea39e1-72e8-41be-8448-edf460e05033'
+groups::pgtomcat::prod::uuid6: '87fc5540-1d44-4a99-a262-c7467efd0555'
+groups::pgtomcat::prod::uuid7: '4d4b8687-4a3b-4e0f-a6aa-baa7648e6617'
+groups::pgtomcat::prod::uuid8: 'b57b6568-8d44-43a3-a179-e228dac4bc06'
+groups::pgtomcat::prod::uuid9: '47b4cdcf-07de-478e-9e3d-572a19002b24'
+groups::pgtomcat::prod::uuid10: '06fd8eec-8c45-4efc-b369-db2b2de71dbe'
+

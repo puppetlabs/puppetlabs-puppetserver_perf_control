@@ -1,0 +1,10 @@
+---
+
+groups::group30::prod::uuid1: '0f04eb43-c652-452b-9523-b35faf8d40f1'
+groups::group30::prod::uuid2: 'c66bebb4-3a0f-4161-b50e-1df300a6a429'
+groups::group30::prod::uuid3: '42365e6b-9bb7-4cd0-baea-3c82f37b8941'
+groups::group30::prod::uuid4: '74e0c584-1674-442a-b275-8f6c673209f5'
+groups::group30::prod::uuid5: '07572595-9f54-4d56-802e-0a33f60be29b'
+groups::group30::prod::uuid6: 'bc06084e-91e2-45fe-baa0-ce5290c3daba'
+groups::group30::prod::uuid7: '2c10398d-22e4-47a2-b8bd-8278a89ec0a5'
+groups::group30::prod::uuid8: 'dc0cd593-24ec-4b09-b982-425748bfd90c'

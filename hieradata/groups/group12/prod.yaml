@@ -1,0 +1,11 @@
+---
+
+groups::group12::prod::uuid1: '63e860bb-5fdb-415e-b61c-f3d04ac0bad6'
+groups::group12::prod::uuid2: '3236c4dc-3c4c-481e-9a1e-40bfa1cd5271'
+groups::group12::prod::uuid3: 'c99cee69-42b3-48c9-94cc-259c1e1bb21d'
+groups::group12::prod::uuid4: '3ddb0116-bb2f-4dc2-ab5c-5c194c673078'
+groups::group12::prod::uuid5: 'b8a39ef6-11a5-4ad5-b423-405da0ce0336'
+groups::group12::prod::uuid6: 'cdf6cb53-41c0-4dab-9db6-1accc5170965'
+groups::group12::prod::uuid7: '500390a2-0b37-411f-98c0-f0d22d6c74a6'
+groups::group12::prod::uuid8: '4ce46b17-b31d-4e56-80b8-432d6239845c'
+groups::group12::prod::uuid9: '3dcdc50a-1214-435f-ab7b-3bc6c7f457fe'

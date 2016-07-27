@@ -1,0 +1,31 @@
+---
+groups::group38::prod::big_map:
+  data1:
+    ip1_1: '127.0.0.1'
+    uuid2_1: '0244e9ad-fc7b-4e0d-8af2-9dc200e460a2'
+    uuid3_1: 'e027b289-b674-4f64-a772-912f9e1efac3'
+    servers4:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+      - 'foo10.mycompany.org'
+      - 'foo11.mycompany.org'
+
+groups::group38::prod::uuid1: 'cdff0faf-f675-4799-8d0b-8eaa1e199ee5'
+groups::group38::prod::uuid2: 'c9cc596a-b21f-43e4-96df-e80b834599e4'
+groups::group38::prod::uuid3: 'cdd9b215-e642-4149-9f76-87d380c416ce'
+groups::group38::prod::uuid4: '61fd7ee4-6bbf-4882-a381-87f65fbcb3f3'
+groups::group38::prod::uuid5: '2d5a0533-fc7b-466c-a14e-b75751238233'
+groups::group38::prod::uuid6: '36210f6c-3817-4269-a477-e62001339e4d'
+groups::group38::prod::uuid7: 'ddfc7222-a406-4e9d-ae24-57bfcd68e94f'
+groups::group38::prod::uuid8: '99ba4ea2-b3ad-4212-9148-58a451e9a506'
+groups::group38::prod::uuid9: '96897f5a-2304-4610-ad6a-af62f41e01e7'
+groups::group38::prod::uuid10: '87eafc6e-3122-4eef-8059-56e712515897'
+groups::group38::prod::uuid11: '38b526fe-593b-4f9a-96a8-df90fba1bf67'
+groups::group38::prod::uuid12: 'ac84690f-40f4-4089-8659-c7fbac434ff3'

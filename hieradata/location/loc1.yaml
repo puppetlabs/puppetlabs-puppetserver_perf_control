@@ -1,0 +1,87 @@
+---
+locations::loc1::uuid1: '9aada2aa-ea4a-4e0b-81a6-bc4f3d0f48d0'
+locations::loc1::uuid2: '69312e21-e05c-425b-a951-6baa43a994f8'
+locations::loc1::uuid3: '0457e29e-df4d-4de7-9ea2-b40940550d5f'
+locations::loc1::uuid4: 'cedd523d-be0d-40a2-b910-8b04759b773e'
+locations::loc1::uuid5: '062c3afa-9179-4cc1-86e8-98261c609e6d'
+locations::loc1::uuid6: 'fa61867d-811f-4794-b7d0-24bd6add1a8e'
+locations::loc1::uuid7: '2da567de-b7cf-4427-ac85-72d81a5a82c2'
+locations::loc1::uuid8: 'e7faab08-ced9-4412-9577-d9886a5cc6d8'
+locations::loc1::uuid9: '28595c57-479d-464d-bf62-3a2c16d2a20f'
+locations::loc1::uuid10: '7c484aa9-6e82-4e58-88ac-f6767b9a5432'
+locations::loc1::uuid11: '727cfdff-bfd2-4349-b780-7d0fd888dffe'
+locations::loc1::uuid12: 'b94b749a-1ca0-41f8-9ba8-9aab7308bfe6'
+locations::loc1::uuid13: '7afdf1e7-3255-4137-9fea-2a0a07024356'
+locations::loc1::uuid14: '139ce975-ea6e-4026-8688-d588da060a3b'
+locations::loc1::uuid15: '7258dda5-7b7c-4c83-ab73-2e350b9a913e'
+
+locations::loc1::ntp::servers:
+  - 'foo1.mycompany.org'
+  - 'foo2.mycompany.org'
+  - 'foo3.mycompany.org'
+  - 'foo4.mycompany.org'
+  - 'foo5.mycompany.org'
+
+locations::loc1::dhcp::servers:
+  - 'foo1.mycompany.org'
+  - 'foo2.mycompany.org'
+
+locations::loc1::rando::servers:
+  - 'foo1.mycompany.org'
+  - 'foo2.mycompany.org'
+  - 'foo3.mycompany.org'
+  - 'foo4.mycompany.org'
+  - 'foo5.mycompany.org'
+
+locations::loc1::big_map:
+  data1:
+    uuid1_1: '55058e1b-e694-4433-b7f8-797948e7c4e5'
+    servers2:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+  data2:
+    ips1:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+      - '127.0.0.8'
+      - '127.0.0.9'
+    uuid2_1: 'faca636b-84b6-418f-91ef-d687cd90cb13'
+    ip3_1: '127.0.0.1'
+    ips4:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+  data3:
+    uuid1_1: 'ca6ffd34-81a7-44e7-833e-9cb6e2d94df1'
+    ip2_1: '127.0.0.1'
+    ips3:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+    ip4_1: '127.0.0.1'
+    uuid5_1: 'ce20e7cc-a8a0-4fac-a1f3-add431869605'
+  data4:
+    ip1_1: '127.0.0.1'
+    ip2_1: '127.0.0.1'
+  data5:
+    ips1:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+    servers2:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+

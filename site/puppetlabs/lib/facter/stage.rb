@@ -1,4 +1,4 @@
-Facter.add(:whereami) do
+Facter.add(:stage) do
   setcode do
     "prod"
   end

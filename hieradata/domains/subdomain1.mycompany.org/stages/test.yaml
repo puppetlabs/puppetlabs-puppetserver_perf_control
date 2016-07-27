@@ -1,0 +1,3 @@
+---
+domains::subdomain1_mycompany_org::stages::test::uuid1: '55af0812-f690-4770-b972-66291c356020'
+domains::subdomain1_mycompany_org::stages::test::uuid2: '4dbbb2bd-ff5f-4ba8-87ee-50036aca8b9f'

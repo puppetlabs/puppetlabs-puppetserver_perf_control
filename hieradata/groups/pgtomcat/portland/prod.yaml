@@ -1,0 +1,7 @@
+---
+groups::pgtomcat::portland::prod::hiera_check_field: "correct value"
+
+groups::pgtomcat::portland::prod::uuid1: '740938ae-80f9-4880-8f74-a435e9606175'
+groups::pgtomcat::portland::prod::uuid2: 'a8cfa102-63d6-4f97-a081-44861c480e93'
+groups::pgtomcat::portland::prod::uuid3: 'b002903a-1ad2-4f47-804e-d4fb89a8c3d3'
+groups::pgtomcat::portland::prod::uuid4: 'a515d832-5559-4802-86ac-897477f3c930'

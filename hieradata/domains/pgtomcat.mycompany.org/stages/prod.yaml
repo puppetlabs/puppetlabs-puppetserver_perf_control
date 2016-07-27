@@ -1,0 +1,7 @@
+---
+domains::pgtomcat_mycompany_org::stages::prod::hiera_check_field: "correct value"
+
+domains::pgtomcat_mycompany_org::stages::prod::uuid1: '5e03dfb6-50d0-47e3-8528-fa42e7f213f9'
+domains::pgtomcat_mycompany_org::stages::prod::uuid2: '6b76543e-fd7e-45b9-a839-c7102ee45a03'
+domains::pgtomcat_mycompany_org::stages::prod::uuid3: '9e41d400-9416-424f-a85b-324e43cf9800'
+domains::pgtomcat_mycompany_org::stages::prod::uuid4: 'f244bd67-89ad-42eb-8bd5-c5fb71f23ec1'

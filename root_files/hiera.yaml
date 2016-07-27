@@ -10,11 +10,11 @@
 :hierarchy:
 # This hierarchy is based on the one from the puppetlabs ops team.
   - "vagrant/%{is_vagrant}"
-  - "nodes/%{domain}/%{fqdn}"
-  - "nodes/%{domain}/%{hostname}"
-  - "domains/%{domain}/groups/%{group}"
-  - "domains/%{domain}/stages/%{stage}"
-  - "domains/%{domain}"
+  - "nodes/%{fake_domain}/%{fqdn}"
+  - "nodes/%{fake_domain}/%{hostname}"
+  - "domains/%{fake_domain}/groups/%{group}"
+  - "domains/%{fake_domain}/stages/%{stage}"
+  - "domains/%{fake_domain}"
   - "groups/%{group}/%{function}/%{stage}"
   - "groups/%{group}/%{function}"
   - "groups/%{group}/%{whereami}/%{stage}"

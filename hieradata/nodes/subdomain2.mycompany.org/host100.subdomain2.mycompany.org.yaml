@@ -1,0 +1,6 @@
+---
+nodes::subdomain2_mycompany_org::host100_subdomain2_mycompany_org::uuid1: 'c12287cd-c0f9-4cfa-82ed-7667f2eef3df'
+nodes::subdomain2_mycompany_org::host100_subdomain2_mycompany_org::uuid2: '97591697-c8d2-44da-8bd7-ffaba9f2a3ed'
+nodes::subdomain2_mycompany_org::host100_subdomain2_mycompany_org::uuid3: '7be14809-32c0-45a1-aab8-c726051bcf24'
+nodes::subdomain2_mycompany_org::host100_subdomain2_mycompany_org::uuid4: 'a0c4c7cb-9133-46ec-a4c3-a055aff1170b'
+

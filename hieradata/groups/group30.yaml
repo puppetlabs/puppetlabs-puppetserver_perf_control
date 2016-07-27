@@ -1,0 +1,89 @@
+---
+groups::group30::big_map:
+  data1:
+    uuid1_1: '77a69380-4027-48d6-b2d6-dabd501357ef'
+    uuid2_1: 'e42b0ae3-5335-48b3-ab80-95b7dc2104df'
+    ip3_1: '127.0.0.1'
+    ip4_1: '127.0.0.1'
+    servers5:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+  data2:
+    servers1:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+    ip2_1: '127.0.0.1'
+  data3:
+    ip1_1: '127.0.0.1'
+    uuid2_1: '3b323149-3e8a-43e2-8249-3674138db9f0'
+    uuid3_1: '337b7682-db6c-453b-a42d-42c57ab3263e'
+    ip4_1: '127.0.0.1'
+    uuid5_1: '5ffdad15-1db5-4b41-b115-b6730c87e50b'
+  data4:
+    servers1:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+    ip2_1: '127.0.0.1'
+  data5:
+    ip1_1: '127.0.0.1'
+    ips2:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+    uuid3_1: '8cb72241-d37f-41b0-bb71-4f85c444b9a8'
+    uuid4_1: 'b3e616f7-5843-4ea9-8534-e66b973d3b49'
+  data6:
+    ip1_1: '127.0.0.1'
+    uuid2_1: 'cdff425e-2626-46dc-a5b4-1a9e49ea103e'
+  data7:
+    ip1_1: '127.0.0.1'
+    ips2:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+      - '127.0.0.8'
+      - '127.0.0.9'
+      - '127.0.0.10'
+      - '127.0.0.11'
+    ip3_1: '127.0.0.1'
+  data8:
+    ips1:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+    servers2:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+  data9:
+    uuid1_1: '739c2855-7f0d-4dba-ba1e-506f7841a7e3'
+    uuid2_1: '059e679c-991e-44a6-86a9-7c2400204ab7'
+    servers3:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'

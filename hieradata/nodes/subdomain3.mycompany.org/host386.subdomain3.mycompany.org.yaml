@@ -1,0 +1,8 @@
+---
+nodes::subdomain3_mycompany_org::host386_subdomain3_mycompany_org::uuid1: 'afbebe42-f9b8-41ec-b086-7e32d27dd524'
+nodes::subdomain3_mycompany_org::host386_subdomain3_mycompany_org::uuid2: '52877e8c-b10f-4f3b-b068-e23cc7287092'
+nodes::subdomain3_mycompany_org::host386_subdomain3_mycompany_org::uuid3: 'c4c8780d-adcd-476a-b008-6f71130bea5c'
+nodes::subdomain3_mycompany_org::host386_subdomain3_mycompany_org::uuid4: '0cc7fc75-1c29-47bd-a3ee-1ac01e154e99'
+nodes::subdomain3_mycompany_org::host386_subdomain3_mycompany_org::uuid5: 'ae0b3754-82c8-4f9b-94b3-0ddee33ce979'
+nodes::subdomain3_mycompany_org::host386_subdomain3_mycompany_org::uuid6: '0511d30f-bde4-4271-a043-5270ba2b92f0'
+

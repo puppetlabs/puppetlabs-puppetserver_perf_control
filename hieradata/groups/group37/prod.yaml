@@ -1,0 +1,29 @@
+---
+groups::group37::prod::big_map:
+  data1:
+    uuid1_1: '7e897cc8-5046-4e2a-bdde-7843aa8b0b1f'
+    servers2:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+    ip3_1: '127.0.0.1'
+    ip4_1: '127.0.0.1'
+  data2:
+    ip1_1: '127.0.0.1'
+    uuid2_1: 'ce8b930d-6b50-4f56-9d96-d9e9e6a5b0b3'
+    uuid3_1: '9824e109-49f7-4479-8f95-ce9349d24e6d'
+    uuid4_1: '766e2c1c-d0aa-4726-9429-e25ec4ecd72f'
+    ip5_1: '127.0.0.1'
+
+groups::group37::prod::uuid1: 'd22fbccd-a2fa-4e31-b760-c52438861131'
+groups::group37::prod::uuid2: 'bdc6784b-e5c3-4168-bb91-35ac4d997cb4'
+groups::group37::prod::uuid3: 'b4aa2174-18f6-4ef1-a531-bb40759073a1'
+groups::group37::prod::uuid4: 'e0919e1a-8c1a-4763-922a-94864dd48846'
+groups::group37::prod::uuid5: '1b7c3bb1-1844-4096-9223-8d8be8bb81ae'
+groups::group37::prod::uuid6: '34ab4127-f45b-461b-82d1-b82f5eaaf573'
+groups::group37::prod::uuid7: '33f9365d-6c4d-4630-a42a-210e6b56b92b'

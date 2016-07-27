@@ -1,0 +1,110 @@
+---
+groups::group29::big_map:
+  data1:
+    servers1:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+    uuid2_1: 'c1aaa962-8051-4767-a1fb-dc37ae4c6f26'
+    servers3:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+    ip4_1: '127.0.0.1'
+    ip5_1: '127.0.0.1'
+  data2:
+    uuid1_1: 'dfa99c54-5c5d-4459-9855-b855e69e8db1'
+    ip2_1: '127.0.0.1'
+  data3:
+    ip1_1: '127.0.0.1'
+    uuid2_1: '1d092429-298f-4479-9ecf-5f7041560f2f'
+  data4:
+    ips1:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+    ips2:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+      - '127.0.0.8'
+      - '127.0.0.9'
+      - '127.0.0.10'
+    uuid3_1: '36c4e07e-dff3-48fb-8dcf-8a8fea57ae76'
+    ip4_1: '127.0.0.1'
+    ips5:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+  data5:
+    uuid1_1: 'f28efc73-e594-40aa-8162-db9468aa54d6'
+    ip2_1: '127.0.0.1'
+  data6:
+    ips1:
+      - '127.0.0.1'
+      - '127.0.0.2'
+    ip2_1: '127.0.0.1'
+    ips3:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+    ip4_1: '127.0.0.1'
+    servers5:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+  data7:
+    servers1:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+    ip2_1: '127.0.0.1'
+    servers3:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+  data8:
+    ip1_1: '127.0.0.1'
+    ip2_1: '127.0.0.1'
+    uuid3_1: 'e91e18a0-f4b4-44a7-9b56-070debe95142'
+    ip4_1: '127.0.0.1'
+    uuid5_1: '4e5ed862-a17b-4dd2-9c2d-9ba45d0293b0'
+  data9:
+    ips1:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+      - '127.0.0.8'
+    uuid2_1: '4210cdea-248c-4dc5-9795-d826f1320b04'
+    ip3_1: '127.0.0.1'
+    ip4_1: '127.0.0.1'
+    ip5_1: '127.0.0.1'
+  data10:
+    ip1_1: '127.0.0.1'
+    ips2:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
