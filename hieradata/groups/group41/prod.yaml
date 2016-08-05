@@ -1,0 +1,48 @@
+---
+groups::group41::prod::big_map:
+  data1:
+    uuid1_1: '2af720b1-3623-4b81-95fd-2afe470079aa'
+    ip2_1: '127.0.0.1'
+  data2:
+    ip1_1: '127.0.0.1'
+    ip2_1: '127.0.0.1'
+    uuid3_1: '060d3bb0-0076-42f6-95af-cfed979a95fb'
+  data3:
+    uuid1_1: '8c711767-26b7-435f-924c-373163755010'
+    ips2:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+    ips3:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+      - '127.0.0.8'
+      - '127.0.0.9'
+      - '127.0.0.10'
+    ip4_1: '127.0.0.1'
+    servers5:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+      - 'foo10.mycompany.org'
+      - 'foo11.mycompany.org'
+
+groups::group41::prod::uuid1: '43292794-9dc4-4929-ada6-40b0ac5a24df'
+groups::group41::prod::uuid2: '291acd54-23ad-4c3b-a6a6-440c851183ce'
+groups::group41::prod::uuid3: '063ccdda-ca78-4d48-941f-b22cda42e0af'
+groups::group41::prod::uuid4: '590913b0-402e-4884-b68e-f0eb7b54389d'
+groups::group41::prod::uuid5: 'a94a9a1b-bc2b-4ea8-9660-c448739d0133'

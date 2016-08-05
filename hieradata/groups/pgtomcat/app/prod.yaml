@@ -1,0 +1,6 @@
+---
+groups::pgtomcat::app::prod::hiera_check_field: "correct value"
+
+groups::pgtomcat::app::prod::uuid1: '7c8a1fb3-48e5-441e-8a26-e1873be622b2'
+groups::pgtomcat::app::prod::uuid2: '96e34736-d28f-4fb9-a5c7-61ae6eaefa95'
+groups::pgtomcat::app::prod::uuid3: 'ba180291-32a8-4f40-a107-eae5d5097fc7'

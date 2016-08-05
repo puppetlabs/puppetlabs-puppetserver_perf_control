@@ -1,0 +1,5 @@
+---
+nodes::subdomain2_mycompany_org::host111_subdomain2_mycompany_org::uuid1: '6d982b04-a42e-43cc-b347-5caaa7766cb8'
+nodes::subdomain2_mycompany_org::host111_subdomain2_mycompany_org::uuid2: '86bb549b-f0b7-4cbb-ac62-bea669d7cc3c'
+nodes::subdomain2_mycompany_org::host111_subdomain2_mycompany_org::uuid3: 'f87cd394-cf37-4691-a511-b56ebb23ebf0'
+

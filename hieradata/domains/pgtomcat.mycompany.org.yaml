@@ -1,0 +1,15 @@
+---
+domains::pgtomcat_mycompany_org::hiera_check_field: "correct value"
+
+domains::pgtomcat_mycompany_org::uuid1: '0704f5ab-59da-41aa-b7fa-ebf2ae003009'
+domains::pgtomcat_mycompany_org::uuid2: '4010a323-94a1-42fa-99ea-39cf86b887cb'
+domains::pgtomcat_mycompany_org::uuid3: '92b2d8ff-3ce8-42ca-9eef-5d232de9c90a'
+domains::pgtomcat_mycompany_org::uuid4: '77fb8dfe-e7b4-4989-a50d-48a0ba0b436b'
+domains::pgtomcat_mycompany_org::uuid5: '8a086fb3-3676-4344-8de9-b64ef1d77d5e'
+domains::pgtomcat_mycompany_org::uuid6: '21e61e96-3f72-4cec-94c3-9fff3b0909a3'
+domains::pgtomcat_mycompany_org::uuid7: '0d265fbd-dc64-4b86-a9e6-7668046d7f95'
+domains::pgtomcat_mycompany_org::uuid8: 'eca928a3-480b-4dc6-a008-6d897accb030'
+domains::pgtomcat_mycompany_org::uuid9: 'ca81d090-7b88-44f7-9556-ee951ddde6b2'
+domains::pgtomcat_mycompany_org::uuid10: 'abfb33ee-ba7c-47b5-a872-05fab27b5af1'
+domains::pgtomcat_mycompany_org::uuid11: '9dfbf8cf-98ff-49d3-abb2-bed0af50ce42'
+domains::pgtomcat_mycompany_org::uuid12: '0c63f73b-45a8-4581-954b-3a7043158b29'

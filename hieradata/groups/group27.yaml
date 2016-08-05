@@ -1,0 +1,64 @@
+---
+groups::group27::big_map:
+  data1:
+    uuid1_1: '363a9c28-4015-4897-bf1e-46485c169fb6'
+    ip2_1: '127.0.0.1'
+    uuid3_1: '9b04d70f-ecd7-4231-acc8-809c7238fc95'
+  data2:
+    ips1:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+    servers2:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+      - 'foo10.mycompany.org'
+  data3:
+    uuid1_1: '012d0297-4547-4c0b-b5c4-954d561313e6'
+    ip2_1: '127.0.0.1'
+    ip3_1: '127.0.0.1'
+  data4:
+    uuid1_1: 'fb4f92d2-8a3a-46e4-af1e-3c4088d27ff7'
+    uuid2_1: 'f602d378-2dc7-46ca-bd5b-4d6db48b9cd8'
+    servers3:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+    ip4_1: '127.0.0.1'
+  data5:
+    servers1:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+    ip2_1: '127.0.0.1'
+  data6:
+    ip1_1: '127.0.0.1'
+    ip2_1: '127.0.0.1'
+  data7:
+    ip1_1: '127.0.0.1'
+    ip2_1: '127.0.0.1'
+  data8:
+    ip1_1: '127.0.0.1'
+    ips2:
+      - '127.0.0.1'
+      - '127.0.0.2'
+    ip3_1: '127.0.0.1'
+  data9:
+    uuid1_1: 'e0613c92-b96d-4eea-8990-62d426109c0d'
+    ip2_1: '127.0.0.1'
+    uuid3_1: 'd19ac3a2-1d3a-4dc5-805f-1758ab8e7d1d'
+    uuid4_1: '9ce7c20c-f333-465d-a604-0434a638d4d6'
+    ip5_1: '127.0.0.1'

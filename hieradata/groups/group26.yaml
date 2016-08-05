@@ -1,0 +1,32 @@
+---
+groups::group26::big_map:
+  data1:
+    servers1:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+    uuid2_1: '3d919b8a-7b97-4990-b507-9e682b8d2a62'
+    ip3_1: '127.0.0.1'
+    uuid4_1: '5d2518a0-5acc-44aa-8e50-48aaec5135ca'
+    ips5:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+  data2:
+    uuid1_1: '8241226c-9cb5-479c-bd4d-3804baab02d6'
+    ips2:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+    ips3:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+    uuid4_1: '218736a8-2f4e-41f0-8ea3-68cabf69a4f3'
+    ip5_1: '127.0.0.1'
+  data3:
+    ip1_1: '127.0.0.1'
+    ip2_1: '127.0.0.1'

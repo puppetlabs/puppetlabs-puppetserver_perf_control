@@ -1,0 +1,73 @@
+---
+nodes::subdomain2_mycompany_org::host12_subdomain2_mycompany_org::uuid1: '7134bf4a-98b7-4d97-b41d-755eb8257341'
+nodes::subdomain2_mycompany_org::host12_subdomain2_mycompany_org::uuid2: '41eaa41d-6f09-4200-9d57-36d6e99cf5d5'
+nodes::subdomain2_mycompany_org::host12_subdomain2_mycompany_org::uuid3: '3c43bc1a-4f95-4b3d-ad3f-1940b5378eb6'
+nodes::subdomain2_mycompany_org::host12_subdomain2_mycompany_org::uuid4: '179de0a6-79d5-4f75-9711-bb97027cdd05'
+nodes::subdomain2_mycompany_org::host12_subdomain2_mycompany_org::uuid5: 'dc022bb4-c290-47d7-baf4-001ea4ee9221'
+nodes::subdomain2_mycompany_org::host12_subdomain2_mycompany_org::uuid6: '7b379b71-3e4e-4ab8-86f8-114e0b4631d6'
+nodes::subdomain2_mycompany_org::host12_subdomain2_mycompany_org::uuid7: 'd4b6b375-455b-40a8-8813-a144af91bd5d'
+nodes::subdomain2_mycompany_org::host12_subdomain2_mycompany_org::uuid8: 'b2f20505-9e28-4a10-8183-3344fc60c6c5'
+nodes::subdomain2_mycompany_org::host12_subdomain2_mycompany_org::uuid9: '976217d6-cbc6-410c-bd44-162767339443'
+nodes::subdomain2_mycompany_org::host12_subdomain2_mycompany_org::uuid10: '899418e5-3a10-4c7a-97bc-92b1b443c635'
+
+nodes::subdomain2_mycompany_org::host12_subdomain2_mycompany_org::uuid:
+  data1:
+    ips1:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+    uuid2_1: '6f0acf9f-7cf1-43ee-82bb-8d35adc57a36'
+    ip3_1: '127.0.0.1'
+    servers4:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+    ip5_1: '127.0.0.1'
+  data2:
+    servers1:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+    ip2_1: '127.0.0.1'
+    servers3:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+    uuid4_1: '0f1a8134-93a0-43c8-a68d-d71c16f3a30d'
+    ips5:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+      - '127.0.0.7'
+      - '127.0.0.8'
+      - '127.0.0.9'
+  data3:
+    uuid1_1: '0643df5e-810e-40cb-ae54-40f42cbb2786'
+    uuid2_1: '89ee5744-722a-4e0c-b9f8-e326969679e5'
+    uuid3_1: '230bff28-1493-4bf6-bad5-494a67c68a1d'
+    ip4_1: '127.0.0.1'
+    servers5:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+  data4:
+    uuid1_1: 'd1acd67e-f042-495f-8e72-343e2576950f'
+    servers2:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+      - 'foo10.mycompany.org'
+      - 'foo11.mycompany.org'

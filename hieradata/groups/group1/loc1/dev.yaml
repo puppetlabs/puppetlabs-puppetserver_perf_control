@@ -1,0 +1,5 @@
+---
+groups::group1::loc1::dev::uuid1: '8b12ee61-d21e-4b79-b90d-9eca8ce64112'
+groups::group1::loc1::dev::uuid2: '9687c80e-ea60-44bc-9a65-514a49b9778c'
+groups::group1::loc1::dev::uuid3: '247e4a26-36e7-4ccb-8066-4a5765430739'
+groups::group1::loc1::dev::uuid4: '9ad6ebc7-2b5f-4813-a48f-e9f1b5f7a624'

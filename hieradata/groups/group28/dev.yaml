@@ -1,0 +1,16 @@
+---
+groups::group28::dev::big_map:
+  data1:
+    ip1_1: '127.0.0.1'
+    uuid2_1: 'b88bfc3d-b389-43fe-97e8-3a6de9df0ec0'
+  data2:
+    ip1_1: '127.0.0.1'
+    ip2_1: '127.0.0.1'
+
+groups::group28::dev::uuid1: '5b98bb21-2e4e-45ab-be8f-0c21734922dc'
+groups::group28::dev::uuid2: '58db9adc-f7ca-4c44-8078-83fb0214a249'
+groups::group28::dev::uuid3: '91880dfa-e05a-400c-bfa9-a3c009bd1840'
+groups::group28::dev::uuid4: 'c27b795c-8412-4862-b98a-2af63cc92258'
+groups::group28::dev::uuid5: '6f645209-0834-483e-a64d-29ecf3beb4d5'
+groups::group28::dev::uuid6: '0978bc00-158c-4bcf-b57c-6e9bac42e072'
+groups::group28::dev::uuid7: 'be7501d1-865c-47bf-a5e9-757585526874'

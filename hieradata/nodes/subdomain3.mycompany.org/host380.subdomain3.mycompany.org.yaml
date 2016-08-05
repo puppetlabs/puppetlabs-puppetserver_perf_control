@@ -1,0 +1,8 @@
+---
+nodes::subdomain3_mycompany_org::host380_subdomain3_mycompany_org::uuid1: 'b5f081c6-9538-4b22-8a31-473ccd9ea595'
+nodes::subdomain3_mycompany_org::host380_subdomain3_mycompany_org::uuid2: 'b0583180-b02e-45cc-b7de-6edd59c22178'
+nodes::subdomain3_mycompany_org::host380_subdomain3_mycompany_org::uuid3: '8e1aa515-092f-4890-b9ce-0e12365d9631'
+nodes::subdomain3_mycompany_org::host380_subdomain3_mycompany_org::uuid4: '3e1e8a82-edc5-4a84-971d-b29dbaf165ec'
+nodes::subdomain3_mycompany_org::host380_subdomain3_mycompany_org::uuid5: 'e4a17a13-71e2-4a03-b16f-9ed144dcfbff'
+nodes::subdomain3_mycompany_org::host380_subdomain3_mycompany_org::uuid6: '5d25543f-646f-430a-819b-6ef0b6366b0b'
+

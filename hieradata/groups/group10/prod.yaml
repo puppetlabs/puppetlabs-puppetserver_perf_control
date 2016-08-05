@@ -1,0 +1,9 @@
+---
+
+groups::group10::prod::uuid1: '6b862536-b53b-4ef6-9d3a-3e2c00d74248'
+groups::group10::prod::uuid2: 'f0ecea7b-7f31-4bc0-85fb-44935a329ecb'
+groups::group10::prod::uuid3: 'afd49184-344f-43ac-bd35-e2284e373ee5'
+groups::group10::prod::uuid4: 'a527879f-1351-4e32-9103-24a638d3baec'
+groups::group10::prod::uuid5: '013681bc-ef41-4b0e-beeb-d697c5dc78c7'
+groups::group10::prod::uuid6: 'c1cb5e03-878e-48de-9094-0bb975e76181'
+groups::group10::prod::uuid7: 'bba2056f-8d1a-4b0d-b468-22e3e39d0573'

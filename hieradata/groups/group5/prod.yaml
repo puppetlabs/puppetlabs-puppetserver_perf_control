@@ -1,0 +1,73 @@
+---
+groups::group5::prod::big_map:
+  data1:
+    uuid1_1: '666660e8-e5c0-44be-ba16-a0eb018dc414'
+    ip2_1: '127.0.0.1'
+    ips3:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+      - '127.0.0.4'
+      - '127.0.0.5'
+      - '127.0.0.6'
+    uuid4_1: 'c16e6715-9e45-4a73-a09c-5a9c53c4fa0e'
+  data2:
+    uuid1_1: 'b07eb129-8c93-451c-b694-d82f6c066043'
+    servers2:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+      - 'foo10.mycompany.org'
+    ip3_1: '127.0.0.1'
+    servers4:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+      - 'foo7.mycompany.org'
+      - 'foo8.mycompany.org'
+      - 'foo9.mycompany.org'
+      - 'foo10.mycompany.org'
+      - 'foo11.mycompany.org'
+  data3:
+    servers1:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+      - 'foo3.mycompany.org'
+      - 'foo4.mycompany.org'
+      - 'foo5.mycompany.org'
+      - 'foo6.mycompany.org'
+    ip2_1: '127.0.0.1'
+    ip3_1: '127.0.0.1'
+    uuid4_1: '8839450c-74c0-43a5-9dc0-2fd21509d8a5'
+  data4:
+    ips1:
+      - '127.0.0.1'
+      - '127.0.0.2'
+      - '127.0.0.3'
+    uuid2_1: '0fff584d-5100-4c11-91ec-a4c437b7cad8'
+    servers3:
+      - 'foo1.mycompany.org'
+      - 'foo2.mycompany.org'
+    uuid4_1: '8bb072c6-0a06-42a2-b5ab-e597ffea033d'
+    uuid5_1: 'ae84162a-9a16-4bd7-b9eb-48c3b6ece67d'
+
+groups::group5::prod::uuid1: '2944cc1f-fdd8-46ca-98e0-d4eaa83e29db'
+groups::group5::prod::uuid2: '9d372b9e-97b3-4e6b-815d-69c4bef46761'
+groups::group5::prod::uuid3: '7dcae17a-fb27-4ac6-9ff1-3114545cffe0'
+groups::group5::prod::uuid4: 'cfe14d6b-b5f6-4e00-b399-5256c99a2dd5'
+groups::group5::prod::uuid5: '10ce6e16-443b-4206-b38d-41e46d317a81'
+groups::group5::prod::uuid6: '2c115b42-1d26-4f97-a134-f9feb7f413a5'
+groups::group5::prod::uuid7: '8267666d-a998-4817-bd98-78da6ce33d9f'
+groups::group5::prod::uuid8: 'ba50abc6-068b-408e-a1fc-23f39aef6d1b'
+groups::group5::prod::uuid9: '2481068e-8c66-4bdc-b09f-f3a275c06c75'
+groups::group5::prod::uuid10: 'e49b38e6-af52-4b36-9c40-ce8979bae52f'
+groups::group5::prod::uuid11: '2a3b4103-210e-4ed1-a331-c4e431674ed6'
