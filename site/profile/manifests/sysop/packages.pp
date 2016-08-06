@@ -42,7 +42,6 @@ class profile::sysop::packages {
   include ::profile::sysop::packages::python
   include ::profile::sysop::packages::ruby
   include ::profile::sysop::packages::rubygems
-  include ::profile::sysop::packages::puppet_agent
   include ::profile::sysop::packages::jq
   include ::profile::sysop::packages::dhclient
   include ::profile::sysop::packages::postfix
