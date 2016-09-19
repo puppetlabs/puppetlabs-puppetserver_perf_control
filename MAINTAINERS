@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "file_format": "This MAINTAINERS file format is described at http://pup.pt/maintainers",
+  "issues": "https://tickets.puppetlabs.com/browse/SERVER",
+  "people": [
+    {
+      "github": "cprice404",
+      "email": "chris@puppet.com",
+      "name": "Chris Price"
+    },
+    {
+      "github": "camlow325",
+      "email": "jeremy.barlow@puppet.com",
+      "name": "Jeremy Barlow"
+    },
+    {
+      "github": "jpinsonault",
+      "email": "joe.pinsonault@puppet.com",
+      "name": "Joe Pinsonault"
+    },
+    {
+      "github": "KevinCorcoran",
+      "email": "kevin.corcoran@puppet.com",
+      "name": "Kevin Corcoran"
+    },
+    {
+      "github": "justinstoller",
+      "email": "justin@puppet.com",
+      "name": "Justin Stoller"
+    }
+  ]
+}
