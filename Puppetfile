@@ -10,7 +10,7 @@ mod 'puppetlabs/concat', '2.1.0'
 mod 'puppetlabs/java', '1.6.0'
 
 # Modules required to get a postgres server up and running
-mod 'puppetlabs/postgresql', '4.7.1'
+mod 'puppetlabs/postgresql', '4.9.0'
 mod 'puppetlabs/apt', '2.2.2'
 
 ##################################################################################
