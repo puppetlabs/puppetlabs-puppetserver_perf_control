@@ -40,7 +40,7 @@ mod 'vshn/gitlab', '1.8.0'
 ## Common tools in an infrastructure
 mod 'camptocamp/openldap', '1.14.0'
 mod 'arioch/redis', '1.2.2'
-mod 'golja/influxdb', '3.0.1'
+mod 'golja/influxdb', '4.0.0'
 mod 'saz/memcached', '2.8.1'
 mod 'puppetlabs/haproxy', '1.4.0'
 mod 'puppetlabs/apache', '1.11.0'
