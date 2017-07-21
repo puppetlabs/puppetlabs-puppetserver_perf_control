@@ -13,6 +13,13 @@ mod 'puppetlabs/java', '1.6.0'
 mod 'puppetlabs/postgresql', '4.9.0'
 mod 'puppetlabs/apt', '2.2.2'
 
+mod 'rampup_profile_gitlab',
+  :git    => 'https://github.com/Puppet-RampUpProgram/rampup_profile_gitlab',
+  :commit => '4a5599882c0e2d716be53b0f543be2af90ec6a94'
+mod 'golja/influxdb', '4.0.0'
+mod 'vshn/gitlab', '1.14.0'
+mod 'puppetlabs/apache', '1.11.0'
+
 ##################################################################################
 ## MODULES BELOW THIS LINE ARE NOT USED BY ANY ROLES/PROFILES
 ##################################################################################
@@ -35,15 +42,12 @@ mod 'saz/rsyslog', '3.5.1'
 
 ## Advanced linux host management
 mod 'garethr/docker', '5.2.0'
-mod 'vshn/gitlab', '1.8.0'
 
 ## Common tools in an infrastructure
 mod 'camptocamp/openldap', '1.14.0'
 mod 'arioch/redis', '1.2.2'
-mod 'golja/influxdb', '3.0.1'
 mod 'saz/memcached', '2.8.1'
 mod 'puppetlabs/haproxy', '1.4.0'
-mod 'puppetlabs/apache', '1.10.0'
 mod 'jfryman/nginx', '0.3.0'
 mod 'rtyler/jenkins', '1.6.1'
 mod 'sensu/sensu', '2.1.0'
