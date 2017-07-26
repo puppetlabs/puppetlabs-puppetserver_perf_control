@@ -24,6 +24,9 @@ mod 'puppetlabs/apache', '1.11.0'
 ## MODULES BELOW THIS LINE ARE NOT USED BY ANY ROLES/PROFILES
 ##################################################################################
 
+# Enable collection of Puppet api-endpoint metrics
+mod 'npwalker-pe_metric_curl_cron_jobs', '4.4.1'
+
 # Extra modules just to increase the total amount of code in the puppet environment
 ## "Additional modules to complement PE installation"
 mod 'hunner/hiera', '2.0.1'
