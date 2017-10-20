@@ -13,9 +13,10 @@ mod 'puppetlabs/java', '1.6.0'
 mod 'puppetlabs/postgresql', '4.9.0'
 mod 'puppetlabs/apt', '2.2.2'
 
-mod 'rampup_profile_gitlab',
-  :git    => 'https://github.com/Puppet-RampUpProgram/rampup_profile_gitlab',
-  :commit => '4a5599882c0e2d716be53b0f543be2af90ec6a94'
+# Seeing issues with latest version of gatling
+#mod 'rampup_profile_gitlab',
+#  :git    => 'https://github.com/Puppet-RampUpProgram/rampup_profile_gitlab',
+#  :commit => '4a5599882c0e2d716be53b0f543be2af90ec6a94'
 mod 'golja/influxdb', '4.0.0'
 mod 'vshn/gitlab', '1.14.0'
 mod 'puppetlabs/apache', '1.11.0'
