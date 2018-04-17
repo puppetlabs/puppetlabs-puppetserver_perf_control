@@ -86,3 +86,6 @@ mod 'puppet/graphite_powershell', '1.0.1'
 
 ## And while we're at it, lets do this all in the cloud
 mod 'puppetlabs/aws', '1.4.0'
+
+## i18n, just putting this here created a perf issue in the past
+mod 'eputnam-i18ndemo', '0.3.0'
