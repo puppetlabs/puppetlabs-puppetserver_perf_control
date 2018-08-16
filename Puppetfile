@@ -2,6 +2,11 @@
 
 mod 'stahnma/epel', '1.2.2'
 
+# Modules that have been extracted from core Puppet
+mod 'puppetlabs/augeas_core', '1.0.0'
+mod 'puppetlabs/sshkeys_core', '1.0.0'
+mod 'puppetlabs/yumrepo_core', '1.0.0'
+
 # Modules required to get a tomcat server up and running
 mod 'puppetlabs/tomcat', '1.5.0'
 mod 'puppetlabs/stdlib', '4.12.0'
