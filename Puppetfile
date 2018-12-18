@@ -31,7 +31,7 @@ mod 'puppetlabs/apache', '1.11.0'
 ##################################################################################
 
 # Enable collection of Puppet api-endpoint metrics
-mod 'npwalker-pe_metric_curl_cron_jobs', '4.4.1'
+mod 'puppetlabs-puppet_metrics_collector', '5.1.0'
 
 # Extra modules just to increase the total amount of code in the puppet environment
 ## "Additional modules to complement PE installation"
