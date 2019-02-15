@@ -1,29 +1,27 @@
 ---
-:backends:
-  - yaml
-:yaml:
-# datadir is empty here, so hiera uses its defaults:
-# - /etc/puppetlabs/code/environments/%{environment}/hieradata on *nix
-# - %CommonAppData%\PuppetLabs\code\environments\%{environment}\hieradata on Windows
-# When specifying a datadir, make sure the directory exists.
-  :datadir:
-:hierarchy:
-# This hierarchy is based on the one from the puppetlabs ops team.
-  - "vagrant/%{is_vagrant}"
-  - "nodes/%{fake_domain}/%{fqdn}"
-  - "nodes/%{fake_domain}/%{hostname}"
-  - "domains/%{fake_domain}/groups/%{group}"
-  - "domains/%{fake_domain}/stages/%{stage}"
-  - "domains/%{fake_domain}"
-  - "groups/%{group}/%{function}/%{stage}"
-  - "groups/%{group}/%{function}"
-  - "groups/%{group}/%{whereami}/%{stage}"
-  - "groups/%{group}/%{stage}"
-  - "groups/%{group}"
-  - "location/%{whereami}/%{stage}"
-  - "location/%{whereami}"
-  - "os/%{osfamily}/%{lsbdistcodename}"
-  - "os/%{osfamily}"
-  - "modules/%{module_name}"
-  - "stages/%{stage}"
-  - "common"
+version: 5
+hierarchy:
+  - name: Classifier Configuration Data
+    data_hash: classifier_data
+  - name: Yaml backend
+    data_hash: yaml_data
+    datadir: "/etc/puppetlabs/code/environments/production/hieradata/"
+    paths:
+      - "vagrant/%{is_vagrant}.yaml"
+      - "nodes/%{fake_domain}/%{fqdn}.yaml"
+      - "nodes/%{fake_domain}/%{hostname}.yaml"
+      - "domains/%{fake_domain}/groups/%{group}.yaml"
+      - "domains/%{fake_domain}/stages/%{stage}.yaml"
+      - "domains/%{fake_domain}.yaml"
+      - "groups/%{group}/%{function}/%{stage}.yaml"
+      - "groups/%{group}/%{function}.yaml"
+      - "groups/%{group}/%{whereami}/%{stage}.yaml"
+      - "groups/%{group}/%{stage}.yaml"
+      - "groups/%{group}.yaml"
+      - "location/%{whereami}/%{stage}.yaml"
+      - "location/%{whereami}.yaml"
+      - "os/%{osfamily}/%{lsbdistcodename}.yaml"
+      - "os/%{osfamily}.yaml"
+      - "modules/%{module_name}.yaml"
+      - "stages/%{stage}.yaml"
+      - 'common.yaml'
